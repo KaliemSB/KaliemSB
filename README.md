@@ -1,4 +1,4 @@
-<img src="https://instagram.ffln1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/120316612_2766359496930776_217027398140168857_n.jpg?_nc_ht=instagram.ffln1-1.fna.fbcdn.net&_nc_ohc=fRj0dAE-K2UAX_K0j6n&tp=1&oh=c7c2cbcc1af79b4e6ff041ca2b052ff8&oe=60177DB0" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" style="width: 50px; height: 50px; border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/61659501?s=460&u=feab59ee1ddff18b7304e9944dca4dc6dddf7a0d&v=4" style="width: 50px; height: 50px; border-radius: 50%;">
 
 <p align="left"> 
   Hello, my name is Mycael I am <strong>Front-end Developer</strong>.
