@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/61659501?s=460&u=feab59ee1ddff18b7304e9944dca4dc6dddf7a0d&v=4" style="width: 50px; height: 50px; border-radius: 50%;">
-
 <p align="left"> 
   Hello, my name is Mycael I am <strong>Front-end Developer</strong>.
 </p>
@@ -9,7 +7,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Vercel, GitHub.</strong>
+  💼 Tools: <strong>Visual Studio Code, Vercel, GitHub, Figma and Bravo Studio.</strong>
 </p>
 
 <p align="left">
