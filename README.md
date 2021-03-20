@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  :pencil2: Skills: <strong>HTML5, CSS, Javascript, Bulma CSS, Materialize CSS and ReactJS.</strong>
+  :pencil2: Skills: <strong>HTML5, CSS, Javascript, Bulma CSS, Materialize CSS, ReactJS, NextJS and SASS.</strong>
 </p>
 
 <p align="left">
