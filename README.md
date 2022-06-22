@@ -1,9 +1,9 @@
 <p align="left"> 
-  Hello, my name is Mycael I am <strong>Front-end Developer</strong>.
+  Hello, my name is Mycael I am <strong>FullStack Developer</strong>.
 </p>
 
 <p align="left">
-  :pencil2: Skills: <strong>HTML5, CSS, Javascript, Bulma CSS, Materialize CSS, ReactJS, NextJS, VueJS, NuxtJS, Firebase and SASS.</strong>
+  :pencil2: Skills: <strong>HTML5, CSS, Javascript, Typescript, Bulma CSS, Materialize CSS, ReactJS, NextJS, VueJS, NuxtJS, Firebase, SASS, NestJS, Express, Vuetify, SQL..</strong>
 </p>
 
 <p align="left">
