@@ -9,6 +9,8 @@
   <li>UI & UX [Figma]</li>
   <li>Database modeling [dbdiagram.io]</li>
   <li>Containers [Docker]</li>
+  <li>Unit tests and documentation [Storybook, Jest, Vitest]</li>
+  <li>End-to-end tests [Cypress]</li>
 </ul>
 
 <p>Front-end</p>
