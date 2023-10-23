@@ -45,5 +45,6 @@
     <li>Cloud Computing [Vercel | Netfly | Heroku | AWS]</li>
     <li>CI/CD Orchestration [Heroku | Github Actions | AWS CodePipeline\CodeBuild]</li>
     <li>VCS Version Control Systems [Git]</li>
+    <li>Infrastructure as code [Terraform]</li>
   </ul>
 </div>
