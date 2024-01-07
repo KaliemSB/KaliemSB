@@ -16,7 +16,7 @@
 <p>Front-end</p>
 <ul>
   <li>Programming languages [Javascript\Typescript]</li>
-  <li>Frameworks [React | Next | Vue | Nuxt | Svelte | Solid]</li>
+  <li>Frameworks [React | Next | Vue | Nuxt | Svelte | Solid | Angular]</li>
   <li>UI-Kit [Vuetify | Bulma | Chakra UI | Evergreen UI]</li>
   <li>CSS3 [SASS | SCSS | BEM | CSS-in-JS | Styled-Components | Emotion | Stitches | TailwindCSS]</li>
   <li>Best practices [Web Semantics | Wireframes | Accessibility | SEO]</li>
