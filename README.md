@@ -24,7 +24,7 @@
 
 <p>Back-end</p>
 <ul>
-  <li>Programming languages [Javascript\Typescript]</li>
+  <li>Programming languages [Javascript\Typescript | C#]</li>
   <li>Frameworks [Express | Nest | Adonis]</li>
   <li>BaaS Back-end-as-Service [FireBase | SupaBase | PocketBase]</li>
   <li>Databases [PostgresSQL | MongoDB | MySQL | SQLite]</li>
