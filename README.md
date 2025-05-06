@@ -1,4 +1,4 @@
-<p>Hello, my name is Mycael, I'm 20 years old and currently studying computer engineering. I started programming when I was 12 years old and have been doing it ever since.</p>
+<p>Hello, my name is Mycael, I'm 22 years old and currently studying computer engineering. I started programming when I was 12 years old and have been doing it ever since.</p>
 
 <p>Some of the technologies and skills I have and use:</p>
 
