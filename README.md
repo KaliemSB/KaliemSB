@@ -1,50 +1,20 @@
-<p>Hello, my name is Mycael, I'm 22 years old and currently studying computer engineering. I started programming when I was 12 years old and have been doing it ever since.</p>
+# Mycael Dias
 
-<p>Some of the technologies and skills I have and use:</p>
+Senior Full Stack Engineer and AI Engineer from Brazil, working remote (UTC-3). English C2.
 
-<p>Tools</p>
-<ul>
-  <li>Programming languages [Javascript\Typescript | Python | C# | C++ | C]</li>
-  <li>Package managers [NPM | Yarn | Pip | Bun]</li>
-  <li>UI & UX [Figma]</li>
-  <li>Database modeling [dbdiagram.io]</li>
-  <li>Containers [Docker]</li>
-  <li>Unit tests and documentation [Storybook, Jest, Vitest]</li>
-  <li>End-to-end tests [Cypress | Playwright]</li>
-</ul>
+I build AI agents, MCP servers and LLM workflows into real products. Day job: Senior Full Stack Developer at Everinbox, an email platform sending 500M+ emails a month with a team of about 4 devs. On the side, I deliver products end to end for freelance clients.
 
-<p>Front-end</p>
-<ul>
-  <li>Programming languages [Javascript\Typescript]</li>
-  <li>Frameworks [React | Next | Vue | Nuxt | Svelte | Solid | Angular]</li>
-  <li>UI-Kit [Vuetify | Bulma | Chakra UI | Evergreen UI | Shadcn UI]</li>
-  <li>CSS3 [SASS | SCSS | BEM | CSS-in-JS | Styled-Components | Emotion | Stitches | TailwindCSS]</li>
-  <li>Best practices [Web Semantics | Wireframes | Accessibility | SEO]</li>
-</ul>
+## What I've built recently
+- **MCP server** that exposes a whole email-marketing platform to AI agents (OAuth, audit log), plus the in-app AI assistant on top of it
+- **AI agent pipeline** that takes a GitHub issue to a verified pull request in sandboxed containers, with human approval gates
+- **Data platform work**: ClickHouse metrics rollups, a Web Push migration to a dedicated PostgreSQL cluster (-77% DB time/day on the main database), Go email verification at multi-million scale
+- **Freelance**: sole engineer on a nutritionist SaaS with multi-agent WhatsApp AI, a notifications service for a natural-gas B2B marketplace, WhatsApp customer service for a retail chain
+- **AI enablement**: rolled out Claude Code, OpenCode, MCPs and agent workflows to my team, and taught a masterclass to ~30 developers
 
-<p>Back-end</p>
-<ul>
-  <li>Programming languages [Javascript\Typescript | C# | C++ | C]</li>
-  <li>Frameworks [Express | Nest | Adonis | Elysia]</li>
-  <li>BaaS Back-end-as-Service [FireBase | SupaBase | PocketBase]</li>
-  <li>Databases [PostgresSQL | MongoDB | MySQL | SQLite]</li>
-  <li>Systems architecture analysis and documentation [Project Management | Requirements Analysis]</li>
-</ul>
+Most of this work lives in private repos.
 
-<div>
-  <p>Agile IT Management [Projects | Teams]</p>
-  <ul>
-    <li>Agile methodologies [Agile | Scrum]</li>
-    <li>Management tools [Asana | Trello]</li>
-  </ul>
-</div>
+## Stack
+TypeScript (Node, Bun, Effect), Go, React / Next.js, PostgreSQL, ClickHouse, Kafka, Redis, AWS, Terraform, Docker
 
-<div>
-  <p>DevOps</p>
-  <ul>
-    <li>Cloud Computing [Vercel | Netfly | Heroku | AWS | GCP]</li>
-    <li>CI/CD Orchestration [Heroku | Github Actions | AWS CodePipeline\CodeBuild]</li>
-    <li>VCS Version Control Systems [Git]</li>
-    <li>Infrastructure as code [Terraform]</li>
-  </ul>
-</div>
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mycael/)
